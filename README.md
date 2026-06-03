@@ -24,15 +24,12 @@ Lite 只保留透视辅助线工作流：
 - 等距鱼眼透视网格。
 - 立体鱼眼透视网格。
 - 透视辅助线上的派生点和控制点。
-- 用于调整透视辅助线参数的 WebView2 控制面板。
 
 Lite 不包含 Object、Mesh、Transform 或场景编辑工具。
 
 ## Photoshop 版本支持
 
-- Photoshop 2019-2020：使用 SDK CC 2019 bridge。
-- Photoshop 2021-2023：使用 SDK 2023 bridge。
-- Photoshop 2024 及以上：使用 SDK 2026 bridge。
+支持 Photoshop 2023 及以上。
 
 ## 更新提示
 
